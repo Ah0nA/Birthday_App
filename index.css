@@ -1,0 +1,120 @@
+/* Navbar */
+.navbar{
+  display: flex;
+  justify-content: center;
+  background-color: moccasin;
+  align-items: flex-end;
+  position: relative;
+
+}
+
+.navbar ul{
+   display: flex;
+   list-style: none;
+   margin:20px ;
+   text-align: center;
+}
+
+
+.navbar ul{
+   font-family: serif;
+   font-style: italic;
+   font-stretch: normal;
+   font-size: 70%;
+
+
+} 
+
+.navbar ul a{
+  color: rgba(2, 2, 2, 0.932);
+  padding: 20px;
+  transition: all .9s ease;
+
+
+}
+
+.navbar ul li a:hover{
+  background-color: khaki;
+  color: black;
+  box-shadow: navajowhite;
+}
+body p{
+  font-family: century;
+  font-size: xx-large;
+
+}
+body {
+  color:black;
+  font-size: x-large;
+  text-align: center;
+  }
+
+
+input[type=submit] {
+background-color: midnightblue;
+color: rgba(2, 2, 2, 0.932);
+padding: 12px 20px;
+border: none;
+border-radius: 4px;
+
+}
+
+
+input[type=submit]:hover {
+background-color: peru;
+}
+
+
+
+
+input[type=text], select, textarea {
+width: 100%;
+padding: 10px;
+border: 1px solid #ccc;
+border-radius: 4px;
+box-sizing: border-box;
+margin-top: 6px;
+margin-bottom: 16px;
+resize: vertical;
+}
+
+input[type=submit] {
+background-color: rgba(2, 2, 2, 0.932);
+color: teal;
+padding: 20px 20px;
+border: none;
+border-radius: 6px;
+cursor: pointer;
+}
+
+input[type=submit]:hover {
+background-color: moccasin;
+}
+
+
+body{
+background-color: peru;}
+.page{
+ display: block;
+ justify-content: space-evenly;
+ list-style-type: circle;
+ 
+
+}
+th, td {
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 40px;
+  justify-content: center;
+}
+table {
+  border-spacing: 30px;
+}
+table, th, td {
+  border: 1px solid black;
+}
+table, th, td {
+  border: 1px solid black;
+  border-radius: 10px;
+}
