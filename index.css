@@ -112,10 +112,10 @@ table {
   border-spacing: 30px;
 }
 table, th, td {
-  border: 1px solid black;
+  border: 3px solid gray
 }
 table, th, td {
-  border: 1px solid black;
+  border: 5px solid black;
   border-radius: 10px;
 }
 label {
