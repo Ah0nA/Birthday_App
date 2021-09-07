@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Ah0nA/Birthday_App/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Portfolio_Landing-Page
+This is a website that generates Akan names using birthday information {Date September 7th 2021}
+## {Author}
+Amanda Ahona
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Description
+ This website takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
 
-### Markdown
+## Check out the website
+[http://127.0.0.1:5500/index.html?dateofbirth=&gender=female&fname=John&lname=Doe]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+##  Bugs.
+I had a problem implementing getting my names to generate.
+## Technologies Used
+HTML
+CSS
+Javascript 
+### Support and contact details
+If you have any issues,comments or inquiries feel free to contact;
+{Email:amandaahona8@gmail.com}
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ah0nA/Birthday_App/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### License
+see License file Copyright (c) {2021}
+## Website Design
+see file
