@@ -8,7 +8,7 @@ Amanda Ahona
  This website takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
 
 ## Check out the website
-[http://127.0.0.1:5500/index.html?dateofbirth=&gender=female&fname=John&lname=Doe]
+[https://ah0na.github.io/Birthday_App/]
 
 
 ##  Bugs.
