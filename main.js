@@ -1,4 +1,4 @@
-const akanNames = [
+let names = [
   {
       gender:'Male',
       dayOfBirt: 'Sunday',
